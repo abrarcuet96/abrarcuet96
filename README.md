@@ -1,4 +1,4 @@
-![logo](https://github.com/abrarcuet96/abrarcuet96/blob/main/git-hub-banner.jpg)
+![logo]([https://github.com/abrarcuet96/abrarcuet96/blob/main/git-hub-banner.jpg](https://github.com/abrarcuet96/abrarcuet96/blob/main/git-banner-100.jpg)
 <h1 align="center">Hi 👋, I'm Md Abrar Haider</h1>
 <h3 align="center">FrontDev | Bangladesh</h3>
 
