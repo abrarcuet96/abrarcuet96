@@ -1,5 +1,5 @@
 ![logo](https://github.com/abrarcuet96/abrarcuet96/blob/main/git-hub-banner.png)
-<h1 align="center">Hi 👋, I'm Md Abrar Haider</h1>
+<h1 align="center">I'm Md Abrar Haider</h1>
 <h2 align="center">FrontDev | Bangladesh</h2>
 
 <p align="center">Frontend Developer with full-stack vision | Building responsive interfaces with HTML, CSS, JS, React, Nextjs, Tailwind, Bootstrap, Firebase, and Vite. Backend knowledge includes Node.js, Express.js, and MongoDB. Eager to collaborate and create engaging experiences.</p>
