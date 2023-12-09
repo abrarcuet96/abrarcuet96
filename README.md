@@ -17,7 +17,7 @@
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abrarcuet96&theme=shadow-blue&hide_border=true&border_radius=5&card_width=500&type=png" alt="GitHub Streak" /></a></p>
 
 <h1 align="center">Projects</h1>
-<h2>Inventory Management System:</h2>
+<h2>Inventory Management Website:</h2>
 <p> This is the <a href="https://inventory-management-sys-591dd.web.app"><span>Live Link</span></a></p>
 <p>Features:</p>
 <ol>
