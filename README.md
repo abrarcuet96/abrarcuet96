@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/abrar-haider-a2a6411aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-haider-a2a6411aa" height="30" width="40" /></a>
 </p>
-<h3 align="center">Skills and Experience:</h3>
+<h3 align="center">Skills and Techs:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,react,firebase,js,express,stackoverflow,vite,mongodb,nodejs,nextjs,ai,ps,vscode" />
