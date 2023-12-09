@@ -5,10 +5,10 @@
 <p align="center">Frontend Developer with full-stack vision | Building responsive interfaces with HTML, CSS, JS, React, Nextjs, Tailwind, Bootstrap, Firebase, and Vite. Backend knowledge includes Node.js, Express.js, and MongoDB. Eager to collaborate and create engaging experiences.</p>
 <p>I have expertise in-</p>
 <ul>
-  <li>building responsive and interactive web applications with React and Tailwind CSS.</li>
+  <li>Building responsive and interactive web applications with React and Tailwind CSS.</li>
   <li>Node.js, Express.js, and MongoDB. Passionate about building scalable and performant web applications.</li>
-  <li>utilizing Firebase for authentication, real-time data management, and backend functionality to create seamless user experiences.</li>
-  <li>building modern web applications that leverage the power of React, Tailwind, Firebase, MongoDB, Node.js, and Express.js.</li>
+  <li>Utilizing Firebase for authentication, real-time data management, and backend functionality to create seamless user experiences.</li>
+  <li>Building modern web applications that leverage the power of React, Tailwind, Firebase, MongoDB, Node.js, and Express.js.</li>
 </ul>
 <h3 align="center">Connect with me</h3>
 <p align="center">
