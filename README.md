@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,tailwind,react,firebase,js,express,stackoverflow,vite,mongodb,nodejs,nextjs,ai,ps,vscode" />
   </a>
 </p>
-
+<h3 align="center">GitHub Stats:</h3>
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abrarcuet96&theme=shadow-blue&hide_border=true&border_radius=5&card_width=500&type=png" alt="GitHub Streak" /></a></p>
 
 <h1 align="center">Projects</h1>
