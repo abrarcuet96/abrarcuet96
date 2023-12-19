@@ -3,6 +3,7 @@
 <h2 align="center">FrontDev | Bangladesh</h2>
 
 <p align="center">Frontend Developer with full-stack vision | Building responsive interfaces with HTML, CSS, JS, React, Nextjs, Tailwind, Bootstrap, Firebase, and Vite. Backend knowledge includes Node.js, Express.js, and MongoDB. Eager to collaborate and create engaging experiences.</p>
+<p>Here is my portfolio link: <a href="https://abrar-haider-portfolio.web.app/"><span>Abrar Haider</span></a></p>
 <p>I have expertise in-</p>
 <ul>
   <li>Building responsive and interactive web applications with React and Tailwind CSS.</li>
